@@ -3,7 +3,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-
+/**
+* The Grading Students program (Hackerrank)
+* @author  Saiful Islam Sajon
+* @version 1.0
+* @since   2020-07-19 
+*/
 
 class GradingStudent {
 
